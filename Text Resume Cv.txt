@@ -1,21 +1,28 @@
 * PROFILE
 
 profile__description
-I am a person, responsible with their work during working hours. Finish various technical and higher studies at large universities. I have several years of experience and achievements in the labor field.
+ Graduate student in Entrepreneurship & Innovation (M.S.) at the University of San Francisco. I’m building skills in product, growth, and business operations—especially for tech and data-driven businesses. I enjoy working with cross-functional teams, turning messy problems into clear plans, and delivering results with strong attention to detail.
+
 
 * EXPERIENCE
 
 experience__description
-Work in this company dedicating the best responsibility in the area that corresponds, delivering the best results for the company and improving productivity.
+Supported projects across research, operations, and marketing by organizing workflows, coordinating stakeholders, and turning ideas into execution. Comfortable working independently, communicating progress clearly, and improving processes to save time and increase output quality.
 
 * CERTIFICATE
 
 certificate__title
-Certified for compliance in the work area (2012)
+Basic Training and Service Gerhardt Nitrogen, Fat, and Fibre Analyzer, GERHARDT GERMANY.
 
-Certificate of attendance on computer technology.
+Inherent Balancing of Mechanism, With Applications In Robotics, Kinetic Art And Architecture, DELFT UNIVERSITY OF TECHNOLOGY, NETHERLANDS.
 
-Achievement medal for productivity excellence during the year (2019)
+Research Center for Advanced Materials and Nanotechnology, SEPULUH NOPEMBER INSTITUTE OF TECHNOLOGY.
+
+Design Private Class Autodesk CAD, DECIMO CAD.
+
+General Occupational Health and Safety Expert, MINISTRY OF MANPOWER OF THE REPUBLIC OF INDONESIA.
+
 
 certificate__description
-For meeting the expectations of leading the team to work the specified tasks in the labor field.
+
+
